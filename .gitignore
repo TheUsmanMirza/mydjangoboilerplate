@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# My locals
+.idea/
+.idea
+staticfiles
